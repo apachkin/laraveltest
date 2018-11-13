@@ -22,5 +22,5 @@
 - скопировать содержимое файла .env.example в новый файл .env
 - создать и импортировать базу basenew
 
-(weba.by)[http://weba.by]
+[http://weba.by](weba.by)
 
